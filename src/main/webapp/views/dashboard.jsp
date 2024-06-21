@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Thunder</title>
+<title>Empower Edge</title>
 <link rel='stylesheet' href='https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css'>
 <style>
 	body{margin-top:20px;
@@ -25,7 +25,6 @@ background:#eee;
 		</ol>
 		<div class="alert alert-success alert-dismissable">
 			<button aria-hidden="true" data-dismiss="alert" class="close" type="button">×</button>
-			Use this boxes to fill your dashboard. You can load number of users, activities, logs, etc...
 		</div>
 	</div>
 </div><!-- /.row -->

@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <link rel='stylesheet' href='https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css'>
-<title>Thunder</title>
+<title>Empower Edge</title>
 </head>
 <style>
 	body{

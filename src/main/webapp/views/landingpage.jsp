@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Thunder</title>
+<title>Empower Edge</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.css">
 <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css'>
 
@@ -430,7 +430,7 @@ p {
 			<div id="main-nav" class="collapse navbar-collapse">
 				<ul class="navbar-nav ml-auto">
 					<li><a href="#" class="nav-item nav-link active">Home</a></li>
-					<li><a href="#" class="nav-item nav-link">About Us</a></li>
+					<li><a href="/views/AboutUs.jsp" class="nav-item nav-link">About Us</a></li>
 					<li class="dropdown">
 						<a href="#" class="nav-item nav-link" data-toggle="dropdown">Office</a>
 						<div class="dropdown-menu">
@@ -442,14 +442,14 @@ p {
 					<li class="dropdown">
 						<a href="#" class="nav-item nav-link" data-toggle="dropdown">Services</a>
 						<div class="dropdown-menu">
-							<a href="#" class="dropdown-item">Dropdown Item 1</a>
-							<a href="#" class="dropdown-item">Dropdown Item 2</a>
-							<a href="#" class="dropdown-item">Dropdown Item 3</a>
-							<a href="#" class="dropdown-item">Dropdown Item 4</a>
-							<a href="#" class="dropdown-item">Dropdown Item 5</a>
+							<a href="#" class="dropdown-item">Front-End Development</a>
+							<a href="#" class="dropdown-item">Back-End Development</a>
+							<a href="#" class="dropdown-item">Full-Stack Development</a>
+							<a href="#" class="dropdown-item">UI/UX Designing</a>
+							<a href="#" class="dropdown-item">Testing</a>
 						</div>
 					</li>
-					<li><a href="#" class="nav-item nav-link">Contact</a></li>
+					<li><a href="/views/ContactUs.jsp" class="nav-item nav-link">Contact</a></li>
 				</ul>
 			</div>
 		</div>

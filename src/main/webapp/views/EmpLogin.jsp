@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Thunder</title>
+<title>Empower Edge</title>
 <link rel='stylesheet' href='https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css'>
 <style>
 	body {
@@ -46,8 +46,8 @@
                 <img class="img-home img-thumbnail" src="https://bootdey.com/img/Content/avatar/avatar7.png">
             </div>
             <div class="col-md-7 form-content">
-                <h1 class="title">Your Site Name.</h1>
-                <p>Put here your site description for example: Bootdey is a gallery of free bootstrap framework snippet Html Css Js codes</p>
+                <h1 class="title">Empower Edge.</h1>
+                <p>Please Login here !</p>
                 <form class="form-horizontal" role="form" action="/emplogin" method="post">
                   <div class="form-group">
                     <label for="inputEmail3" class="col-sm-2 control-label">Employee Id</label>
